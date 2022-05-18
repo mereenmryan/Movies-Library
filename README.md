@@ -5,6 +5,7 @@
 ## WRRC
 
 ![WRRC](./images/WRRC1.jpg)
+![WRRC](./images/WRRC2.jpg)
 
 ## Overview
 
